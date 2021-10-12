@@ -1,0 +1,5 @@
+dea/
+__pycache__/
+*.py[cod]
+*.pot
+*.log
